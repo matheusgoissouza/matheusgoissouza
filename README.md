@@ -20,6 +20,12 @@
 </a>
 </div>
 
+<div>
+<a href="https:/http://linkedin.com/in/matheus-gois-731801166/" target="blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href= target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
+
 
 <div>
 <picture>
