@@ -2,7 +2,7 @@
  
 
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo Campus Bragança Paulista.
-- Estou aprendendo C, Html, Css, JavaScript e React.
+- Estou aprendendo C, Python, Html, Css, JavaScript e React.
 - Meu email: matheus8gois@gmail.com
 
 <div style="display: inline_block"><br>
